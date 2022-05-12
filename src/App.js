@@ -11,7 +11,11 @@ function App() {
       <section>
         <h2>Itens</h2>
         <ul>
-          <ListItem />
+          <ListItem title="Comprar Pão"/>
+          <ListItem title="Lavar o carro"/>
+          <ListItem title="Lançar notas"/>
+          <ListItem title="Gerenciar API"/>
+          <ListItem title="Criar CSS"/>
         </ul>
       </section>
     </div>

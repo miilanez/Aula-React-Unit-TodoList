@@ -1,6 +1,6 @@
-const ListItem = () => {
+const ListItem = ({title}) => {
     return (
-        <li>Item de Lista</li>
+        <li>{title}</li>
     )
 }
 
